@@ -1,0 +1,19 @@
+/* Write your code here. */
+.card-items {
+  background-color: #9796f0;
+  border: 1px solid white;
+  border-radius: 10px;
+  list-style: none;
+  padding: 20px;
+  margin: 15px;
+}
+.card-image {
+  height: 80px;
+  width: 80px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}

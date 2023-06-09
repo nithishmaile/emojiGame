@@ -1,0 +1,45 @@
+/* Write your code here. */
+.winOrLose-container {
+  background-color: #9796f0;
+  border: 1px solid white;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.winAndLose-heading {
+  color: white;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.winOrLose-score-heading {
+  color: white;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.points-score-heading {
+  color: #6a59ff;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.wonOrLose-image {
+  height: 340px;
+  width: 320px;
+}
+.wonOrLose-score-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.playAgain-button {
+  color: #3d3d3d;
+  background-color: #ffce27;
+  border-width: 0px;
+  font-size: 15px;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+}
