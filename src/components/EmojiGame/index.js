@@ -122,7 +122,7 @@ class EmojiGame extends Component {
         <div className="emoji-container">
           <Navbar
             currentScore={emojiId.length}
-            isGameInprogress={isGameInprogress}
+            isGameInProgress={isGameInprogress}
             topScore={topScore}
           />
         </div>
